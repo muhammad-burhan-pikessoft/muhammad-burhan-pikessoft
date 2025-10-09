@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello! I’m Muhammad Burhan, a Computer Science student at the University of Central Punjab, Lahore, with a CGPA of 3.7. I’m passionate about software development and eager to apply my skills in full-stack engineering. 📚<br><br>🚀 I’m seeking roles where I can leverage my expertise in HTML/CSS, JavaScript, Angular, C# (ASP.NET Core), and Python to drive innovation and contribute to impactful projects. 💡<br><br>📧 Feel free to reach out: burhanburewala@gmail.com
+👋 Hello! I’m Muhammad Burhan, a Computer Science student at the University of Central Punjab, Lahore. I’m passionate about software development and eager to apply my skills in full-stack engineering. 📚<br><br>🚀 I’m seeking roles where I can leverage my expertise in HTML/CSS, JavaScript, Angular, C# (ASP.NET Core), and Python to drive innovation and contribute to impactful projects. 💡<br><br>📧 Feel free to reach out: burhanburewala@gmail.com
 
 
 ## 🌐 Socials:
