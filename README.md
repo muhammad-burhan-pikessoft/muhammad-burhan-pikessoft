@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋 Hello! I’m Muhammad Burhan, a Computer Science student at the University of Central Punjab, Lahore. I’m passionate about software development and eager to apply my skills in full-stack engineering. 📚<br><br>🚀 I’m seeking roles where I can leverage my expertise in HTML/CSS, JavaScript, Angular, C# (ASP.NET Core), and Python to drive innovation and contribute to impactful projects. 💡<br><br>📧 Feel free to reach out: burhanburewala@gmail.com
+👋 Hello! I’m Muhammad Burhan, a Computer Science graduate and currently working as an Associate Software Engineer. I’m passionate about full-stack development and building scalable, user-friendly applications.
+
+🚀 I work with Angular, NestJS, .NET Core, PostgreSQL, and AWS, and I’m continuously learning new technologies to improve my skill set and knowledge base. I enjoy solving real-world problems and growing as a software professional every day. 💡<br><br>📧 Feel free to reach out: burhanburewala@gmail.com
 
 
 ## 🌐 Socials:
